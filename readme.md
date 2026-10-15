@@ -33,4 +33,4 @@ Como o projeto foi construído em formato de Notebook, a execução é muito dir
 Contribuições são bem-vindas! Sinta-se à vontade para abrir uma *Issue* ou enviar um *Pull Request* se tiver ideias para melhorar o Feature Engineering ou a lógica do Meta-Modelo.
 
 ---
-*Desenvolvido com ☕ e Machine Learning por [SEU NOME]*
+*Desenvolvido com ☕ e Machine Learning por Paulo H(paulomod2017-dotcom).
